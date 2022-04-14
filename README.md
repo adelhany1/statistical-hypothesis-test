@@ -2,7 +2,7 @@
 Hypotheses are claims, and we can use statistics to prove or disprove them. At this point, hypothesis testing structures the problems so that we can use statistical evidence to test these claims. So we can check whether or not the claim is valid.
 
 1. Defining Hypotheses
-2. 
+
 First of all, we should understand which scientific question we are looking for an answer to, and it should be formulated in the form of the Null Hypothesis (H₀) and the Alternative Hypothesis (H₁ or Hₐ). Please remember that H₀ and H₁ must be mutually exclusive, and H₁ shouldn’t contain equality:
 
 H₀: μ=x, H₁: μ≠x
