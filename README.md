@@ -3,8 +3,11 @@ Hypotheses are claims, and we can use statistics to prove or disprove them. At t
 
 1. Defining Hypotheses
 First of all, we should understand which scientific question we are looking for an answer to, and it should be formulated in the form of the Null Hypothesis (H₀) and the Alternative Hypothesis (H₁ or Hₐ). Please remember that H₀ and H₁ must be mutually exclusive, and H₁ shouldn’t contain equality:
+
 H₀: μ=x, H₁: μ≠x
+
 H₀: μ≤x, H₁: μ>x
+
 H₀: μ≥x, H₁: μ<x
                  
 2. Assumption Check
