@@ -22,7 +22,7 @@ Observations in each sample have the same variance.
                  
 Then we select the appropriate test to be used. When choosing the proper test, it is essential to analyze how many groups are being compared and whether the data are paired or not. To determine whether the data is matched, it is necessary to consider whether the data was collected from the same individuals. Accordingly, you can decide on the appropriate test using the chart below.
                  
-paired mean both and normaly distributed or both are not and vise versa.
+paired mean that all are normaly distributed or all are not. Just one different means that unpaired. Check the picture below..
                  
                  https://user-images.githubusercontent.com/99558161/163493643-6d415c40-f3a2-4047-923d-3f145de4667d.png
                  
