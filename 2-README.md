@@ -28,7 +28,8 @@ Unpaired means that both samples consist of distinct test subjects. An unpaired 
                  
                  https://user-images.githubusercontent.com/99558161/163493643-6d415c40-f3a2-4047-923d-3f145de4667d.png
                  
-
+                 
+The t-test is a method that determines whether two populations are statistically different from each other, whereas ANOVA determines whether three or more populations are statistically different from each other
                  
 
 4. Decision and Conclusion
