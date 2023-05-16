@@ -1,5 +1,5 @@
 # statistical-hypothesis-test
-Hypotheses are claims, and we can use statistics to prove or disprove them. At this point, hypothesis testing structures the problems so that we can use statistical evidence to test these claims. So we can check whether or not the claim is valid.
+Hypotheses are claims , and we can use statistics to prove or disprove them. At this point, hypothesis testing structures the problems so that we can use statistical evidence to test these claims. So we can check whether or not the claim is valid.
 
 1. Defining Hypotheses
 
